@@ -46,7 +46,7 @@ Experiment 3: Checkout Flow Optimization
 Клонируйте репозиторий:
 Bash
 
-git clone https://github.com/Pukist/ab-testing-project/tree/main.git 
+git clone https://github.com/Pukist/ab-testing-project/tree/main
 cd ab-testing-project
 Убедитесь, что установлен Python (рекомендуется 3.8+).
 Сгенерируйте данные: Запустите Python-скрипт, который создаст файл базы данных ab_testing.db и заполнит его данными:
